@@ -1,0 +1,76 @@
+body{
+  font-family: arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ height: 100vh;
+  
+}
+
+.container{
+  background-color: #273549;
+  padding: 30px;
+  border-radius: 10px;
+  width: 400px;
+  height: 400px;
+}
+
+h1 {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.part1 {
+  color: white;
+  
+  
+}
+
+.part2{
+  display: block;
+  color: green;
+  
+}
+
+.small {
+  color: white;
+ 
+}
+
+button{
+  background-color:green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding:  10px 20px;
+  font-size: 15px;
+  
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.passwords {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  
+  margin-top: 20px;
+}
+
+
+.passwords p{
+  background-color: #1f2937;
+  color: green;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  font-family: monospace;
+  text-align: center;
+  width: 150px;
+  height: 10px;
+}
+
+
+
+
+
